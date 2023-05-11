@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9660f2d-fc6c-46c7-aecb-6e69ac01217e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28bdb0e0ff7997eccf86e8cfd3355dcd87840cfe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59b41e576cade919fec734d11a938db31bcb5376" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bb4f6fd905102d486b33c84961db1b441cf84f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a736a93ed91e45d350f975aa1f722c125057bb53" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6b5453d08759557e843b6803888040d5a8e0a5b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6f1fe4098d4b146ce66ee7112725f1b6d48bffb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberDiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberMul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/binaryDiffArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/diffArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/preSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baseAlgorithm/smallNumberDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/BinarySearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/BinarySearchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/bigNumberAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/bigNumberAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/bigNumberSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/bigNumberSub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/floatBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/floatBinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/mergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/mergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/quickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baseStudyAlgorithm/baseAlgorithm/quickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baseAlgorithm/bigNumberSub.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +53,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.bigNumberSub">
-    <configuration name="BinarySearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.BinarySearchTest" />
+  <component name="RunManager" selected="Application.diffArray">
+    <configuration name="bigNumberAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.bigNumberAdd" />
       <module name="baseStudyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -47,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bigNumberAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.bigNumberAdd" />
+    <configuration name="bigNumberDiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.bigNumberDiv" />
       <module name="baseStudyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="floatBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.floatBinarySearch" />
+    <configuration name="diffArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.diffArray" />
       <module name="baseStudyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.quickSortTest" />
+    <configuration name="smallNumberDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baseAlgorithm.smallNumberDivision" />
       <module name="baseStudyAlgorithm" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bigNumberSub" />
+        <item itemvalue="Application.diffArray" />
+        <item itemvalue="Application.smallNumberDivision" />
+        <item itemvalue="Application.bigNumberDiv" />
         <item itemvalue="Application.bigNumberAdd" />
-        <item itemvalue="Application.floatBinarySearch" />
-        <item itemvalue="Application.quickSortTest" />
-        <item itemvalue="Application.BinarySearchTest" />
+        <item itemvalue="Application.bigNumberSub" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +151,19 @@
       <workItem from="1681912140908" duration="3347000" />
       <workItem from="1681957468450" duration="21000" />
       <workItem from="1681993641280" duration="166000" />
-      <workItem from="1681993967249" duration="4568000" />
+      <workItem from="1681993967249" duration="4683000" />
+      <workItem from="1682045584082" duration="23000" />
+      <workItem from="1682252610548" duration="5032000" />
+      <workItem from="1682314589291" duration="14000" />
+      <workItem from="1683031901470" duration="3617000" />
+      <workItem from="1683039403300" duration="86000" />
+      <workItem from="1683085184842" duration="205000" />
+      <workItem from="1683086625615" duration="956000" />
+      <workItem from="1683099265877" duration="6604000" />
+      <workItem from="1683107693093" duration="4092000" />
+      <workItem from="1683115127462" duration="2758000" />
+      <workItem from="1683168666223" duration="14000" />
+      <workItem from="1683783572520" duration="4035000" />
     </task>
     <servers />
   </component>
@@ -134,45 +171,69 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="96" key="GridCell.Tab.0.bottom" timestamp="1681997229150">
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom" timestamp="1683788431270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="96" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681997229150" />
-    <state width="1493" height="96" key="GridCell.Tab.0.center" timestamp="1681997229150">
+    <state width="1493" height="9" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1683788431270" />
+    <state width="1493" height="176" key="GridCell.Tab.0.center" timestamp="1683788431270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="96" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681997229150" />
-    <state width="1493" height="96" key="GridCell.Tab.0.left" timestamp="1681997229150">
+    <state width="1493" height="9" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1683788431270" />
+    <state width="1493" height="176" key="GridCell.Tab.0.left" timestamp="1683788431270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="96" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681997229150" />
-    <state width="1493" height="96" key="GridCell.Tab.0.right" timestamp="1681997229150">
+    <state width="1493" height="9" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1683788431270" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right" timestamp="1683788431270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="96" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681997229150" />
-    <state width="1493" height="185" key="GridCell.Tab.1.bottom" timestamp="1681915672790">
+    <state width="1493" height="9" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1683788431270" />
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom" timestamp="1683115104090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681915672790" />
-    <state width="1493" height="185" key="GridCell.Tab.1.center" timestamp="1681915672790">
+    <state width="1493" height="9" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1683115104090" />
+    <state width="1493" height="319" key="GridCell.Tab.1.center" timestamp="1683115104090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681915672790" />
-    <state width="1493" height="185" key="GridCell.Tab.1.left" timestamp="1681915672790">
+    <state width="1493" height="9" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="319" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1683115104090" />
+    <state width="1493" height="319" key="GridCell.Tab.1.left" timestamp="1683115104090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681915672790" />
-    <state width="1493" height="185" key="GridCell.Tab.1.right" timestamp="1681915672790">
+    <state width="1493" height="9" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="319" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1683115104090" />
+    <state width="1493" height="319" key="GridCell.Tab.1.right" timestamp="1683115104090">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681915672790" />
-    <state x="442" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1681993967837">
+    <state width="1493" height="9" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682260487861" />
+    <state width="1493" height="319" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1683115104090" />
+    <state x="262" y="0" key="SettingsEditor" timestamp="1683784201707">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="442" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681993967837" />
+    <state x="262" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1683784201707" />
+    <state x="442" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1683168665962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1682314588854" />
+    <state x="442" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1683168665962" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1681996303266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.-125.1920.1160@0.0.1536.824" timestamp="1681996303266" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baseAlgorithm/bigNumberAdd.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

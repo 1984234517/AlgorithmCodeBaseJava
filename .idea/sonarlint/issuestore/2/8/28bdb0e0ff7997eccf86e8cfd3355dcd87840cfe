@@ -1,0 +1,39 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸¯¶üÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
+;
+java:S3457"%String contains no format specifiers.(ï«¨°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï«¨°
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ò°‹ûÿÿÿÿ
+5
+java:S1659-"Declare "r" on a separate line.(¤ÎÎ÷
+>
+java:S1659<"#Declare "right" on a separate line.(œÃ“üüÿÿÿÿ
+c	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ôó
+W
+java:S1126x"AReplace this if-then-else statement by a single return statement.(º Ïö
+t
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(­ã¦ùÿÿÿÿ
+‹
+java:S1319$"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯ï¿Šøÿÿÿÿ
+€
+java:S1319$"eThe type of "nums1" should be an interface such as "List" rather than the implementation "ArrayList".(¯ï¿Šøÿÿÿÿ
+€
+java:S1319$"eThe type of "nums2" should be an interface such as "List" rather than the implementation "ArrayList".(¯ï¿Šøÿÿÿÿ
+€
+java:S1319:"eThe type of "nums1" should be an interface such as "List" rather than the implementation "ArrayList".(°Ô¦ùÿÿÿÿ
+€
+java:S1319:"eThe type of "nums2" should be an interface such as "List" rather than the implementation "ArrayList".(°Ô¦ùÿÿÿÿ
+{
+java:S1319L"eThe type of "nums1" should be an interface such as "List" rather than the implementation "ArrayList".(é…Ìå
+{
+java:S1319L"eThe type of "nums2" should be an interface such as "List" rather than the implementation "ArrayList".(é…Ìå
+{
+java:S1319U"eThe type of "nums1" should be an interface such as "List" rather than the implementation "ArrayList".(¯Ôó
+{
+java:S1319c"eThe type of "nums1" should be an interface such as "List" rather than the implementation "ArrayList".(Á‹ã“
+{
+java:S1319c"eThe type of "nums2" should be an interface such as "List" rather than the implementation "ArrayList".(Á‹ã“
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™³µ›ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü¨íËşÿÿÿÿ

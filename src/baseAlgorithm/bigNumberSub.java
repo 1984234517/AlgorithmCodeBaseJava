@@ -19,18 +19,11 @@ public class bigNumberSub {
             if(type){
                 System.out.print("-");
             }
-            int i = res.size()-1;
-            while(i>-1 && res.get(i)==0){
-                i--;
-            }
-            if(i==-1){
-                System.out.print("0");
-            }
-            for(;i>-1;i--){
+            for(int i=res.size()-1;i>-1;i--){
                 System.out.print(res.get(i));
             }
         }
-        public static ArrayList<Integer> bigNumberSubTest(String arr1,String arr2){
+        public static ArrayList<Integer> bigNumberSubTest(String arr1, String arr2){
             ArrayList<Integer> res = new ArrayList<>();
             int index = 0;
             for(int i=arr1.length()-1,j=arr2.length()-1;i>-1;i--,j--){
@@ -40,6 +33,10 @@ public class bigNumberSub {
                 }
                 res.add((index+10)%10);
                 index = index<0?-1:0;
+            }
+            // 如果最后一个也是0，需要保留
+            while(res.size() >1 && res.get(res.size()-1)==0){
+                res.remove(res.size()-1);
             }
             return res;
         }

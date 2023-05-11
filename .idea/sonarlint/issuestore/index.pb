@@ -5,3 +5,15 @@ W
 'src/baseAlgorithm/BinarySearchTest.java,4\d\4d04d9faecfc6f86703a9c10001f1454980ad846
 P
  src/baseAlgorithm/quickSort.java,f\3\f3743733c7fd55cb558219517c6f33ae4f0da64e
+S
+#src/baseAlgorithm/bigNumberAdd.java,9\b\9bb4f6fd905102d486b33c84961db1b441cf84f0
+X
+(src/baseAlgorithm/floatBinarySearch.java,5\9\59b41e576cade919fec734d11a938db31bcb5376
+S
+#src/baseAlgorithm/bigNumberSub.java,a\7\a736a93ed91e45d350f975aa1f722c125057bb53
+S
+#src/baseAlgorithm/bigNumberMul.java,d\6\d6b5453d08759557e843b6803888040d5a8e0a5b
+S
+#src/baseAlgorithm/bigNumberDiv.java,2\8\28bdb0e0ff7997eccf86e8cfd3355dcd87840cfe
+Z
+*src/baseAlgorithm/smallNumberDivision.java,d\6\d6f1fe4098d4b146ce66ee7112725f1b6d48bffb
